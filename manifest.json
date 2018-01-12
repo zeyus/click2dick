@@ -1,0 +1,23 @@
+{
+  "name": "Click2Dick",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description": "Changes occurrences of click, to dick.",
+  "homepage_url": "http://zeyus.com",
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "http://*/*",
+        "https://*/*"
+      ],
+      "js": [
+        "src/inject/inject.js"
+      ]
+    }
+  ]
+}
