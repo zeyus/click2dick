@@ -13,3 +13,5 @@ https://github.com/zeyus/click2dick/archive/master.zip
  * choose unzip directory
 
 I could add it to chrome store but I doubt it'd be accepted.
+![before](https://i.imgur.com/4YYKCVQ.png)
+![after](https://i.imgur.com/fQvEmE7.png)
